@@ -1,0 +1,66 @@
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csprojResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\App.g.cs
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\MainPage.g.cs
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.g.resources
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.Resources.AppResources.resources
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csproj.GenerateResource.Cache
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\ApplicationIcon.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.dll
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.pdb
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\AppManifest.xaml
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Properties\WMAppManifest.xml
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\WP8Sqlite_Debug_x86.xap
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Sqlite.winmd
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\Bin\x86\Debug\Sqlite.pdb
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.dll
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\WP8Sqlite.pdb
+c:\users\ken\documents\visual studio 2012\Projects\WP8Sqlite\WP8Sqlite\obj\x86\Debug\XapCacheFile.xml
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.dll
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.pdb
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.dll
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.pdb
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\AppManifest.xaml
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite_Debug_x86.xap
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Sqlite.winmd
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Debug\Sqlite.pdb
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csprojResolveAssemblyReference.cache
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\App.g.cs
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\MainPage.g.cs
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.g.resources
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.Resources.AppResources.resources
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csproj.GenerateResource.Cache
+C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Debug\XapCacheFile.xml
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.dll
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite.pdb
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\AppManifest.xaml
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\WP8Sqlite_Debug_x86.xap
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Sqlite.winmd
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\Bin\x86\Debug\Sqlite.pdb
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\App.g.cs
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\MainPage.g.cs
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.g.resources
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.Resources.AppResources.resources
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.csproj.GenerateResource.Cache
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.dll
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\WP8Sqlite.pdb
+C:\Users\john\Downloads\Using Sqlite with WP8\C# and C++\WP8Sqlite\obj\x86\Debug\XapCacheFile.xml

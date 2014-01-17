@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Release\WP8Sqlite_Release_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/14/2013 9:20:31 PM">
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\obj\x86\Release\WP8Sqlite.dll" archivePath="WP8Sqlite.dll" lastWriteTime="11/14/2013 9:20:27 PM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10/8/2013 12:53:07 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/14/2013 9:18:55 PM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/8/2013 12:53:06 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\Release\Sqlite\Sqlite.winmd" archivePath="Sqlite.winmd" lastWriteTime="11/14/2013 9:18:53 PM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\Release\Sqlite\Sqlite.dll" archivePath="Sqlite.dll" lastWriteTime="11/14/2013 9:18:53 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\SQLite.WP80\3.8.1\Redist\Retail\x86\sqlite3.dll" archivePath="sqlite3.dll" lastWriteTime="10/18/2013 12:21:34 AM" />
+  <file source="C:\Using Sqlite with WP8\C#,C++\WP8Sqlite\Bin\x86\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/14/2013 9:18:56 PM" />
+</xapCache>
